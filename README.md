@@ -3,15 +3,16 @@
 <h1 align="center">😎 Hi! I'm Longfu Xu</h1>
 
 ## About Me
-I am a **biophysical and biochemical researcher**, dedicated to unraveling life's secrets at the molecular level. My focus is not on mere phenomena, but on understanding the fundamental laws set by the creator, guiding life's emergence and growth. My vision is to uncover these rules and hopefully construct a functional cell (or other life forms) from the ground up, revealing life's essence through each discovery.
+I am a **biophysicist** interested in decoding viral life cycles—especially viral DNA replication and DNA packaging—from a single-molecule perspective. My goal is to deepen our understanding of these fundamental processes and potentially open new pathways for treating genetic diseases and preventing potential future viral threats.
 
-I am currently working as a **Postdoctoral Researcher** in Professor Gijs Wuite's laboratory at **Vrije Universiteit Amsterdam**. My primary focus is on exploring the intricate dance between DNA and proteins during DNA replication. I employ cutting-edge single-molecule manipulation and visualization techniques, aiming to decode these vital interactions.
-### Future Role
-I will be starting a new journey as a postdoc researcher in Prof. **Carlos Bustamante**'s laboratory at **University of California, Berkeley** from Feb.2024. 
+## Current Research
+I currently work as a **Postdoctoral Researcher** in Professor [Carlos Bustamante’s laboratory](http://bustamante.berkeley.edu) at **UC Berkeley**. My work focuses on a virally encoded molecular motor that packages the viral genome into a preassembled container. By investigating how these packaging machines harness ATP binding, hydrolysis, and release to generate mechanical force, we aim to shed light on the intricacies of viral assembly and function.
 
-### Academic Education
-- **Ph.D.**: Earned from the **Vrije Universiteit Amsterdam** under the supervision of **Prof. Gijs Wuite**. I have using single-molecule techniques, such as Optical Tweezer and Fluorescence Microscopy to study DNA and protein interaction during DNA replicaiton process.
-- **Master of Science**: Earned from the **University of the Chinese Academy of Sciences**, under **Professors Zhiguo Su** and **Yongdong Liu**, focusing on the field of long-acting biopharmaceuticals. My research centered on innovative methods like PEGylation and the incorporation of albumin-binding domains to a fused protein.
+## Previous Academic Training
+Prior to joining UC Berkeley, I pursued my PhD and postdoctoral research in Professor [Gijs Wuite’s laboratory](https://www.gijswuite.com) at the **Vrije Universiteit Amsterdam**. Employing advanced single-molecule techniques, we revisited fundamental DNA replication mechanisms using a simplified bacteriophage T7 system. One key finding revealed that replication is more dynamic than previously believed, prompting us to propose a “decentralized model,” as detailed in our recent [Nature Communications publication](https://www.nature.com/articles/s41467-024-49612-3).
+
+## Early Experiences
+My **Master of Science** degree was obtained at the **University of the Chinese Academy of Sciences**, under the guidence of **Professors Zhiguo Su** and **Yongdong Liu**. During this period, my research centered on novel approaches to long-acting biopharmaceuticals, including PEGylation and albumin-binding domain fusion, aimed at enhancing therapeutic efficacy.
 
 ### Research Interests
 - Single-Molecule Biophysics
