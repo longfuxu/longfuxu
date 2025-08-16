@@ -33,24 +33,15 @@ Feel free to explore my repositories and reach out to me for collaborations or d
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/longfu_xu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_srbhr_" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/longfuxu/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srbhr" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://scholar.google.com/citations?user=lkZwOH0AAAAJ&hl=en" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="srbhr" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="google scholar" height="30" width="40" />
   </a>
-  <br/>
-</p>
-
-<!-- Footer with personal website -->
-<h3 align="center">My Website:</h3>
-<p align="center">
   <a href="https://www.longfuxu.com/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="personal website" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="website" height="30" width="40" />
   </a>
 </p>
-
-
-
